@@ -1,7 +1,7 @@
 # Your code goes here!
 
 class Dog
-  def name=(name) #A setter method name.
+  def name1=(name) #A setter method name.
     @name  = name
   end
   
